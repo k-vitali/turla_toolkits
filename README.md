@@ -1,4 +1,3 @@
-# turla_toolkits
 # Kazuar RAT 
 ```
 SHA-256: 44cc7f6c2b664f15b499c7d07c78c110861d2cc82787ddaad28a5af8efc3daac
